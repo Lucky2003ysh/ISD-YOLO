@@ -16,6 +16,7 @@ Li Z, Wei X, Hassaballah M, et al. A deep learning model for steel surface defec
 ```
 Lv X, Duan F, Jiang J, et al. Deep metallic surface defect detection: The new benchmark and detection network[J]. Sensors, 2020, 20(6): 1562.
 ```
+The datasets used in the training process are available via Baidu Netdisk: https://pan.baidu.com/s/1hm01W3wOpAyVGOvI6CUP5A?pwd=tqxg
 
 Our training results are all saved in the **data validation** folder. You can verify the experimental results in the following way:
 
