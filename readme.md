@@ -40,7 +40,8 @@ if __name__ == '__main__':
 
 We propose a LSCMDC module. Directly using traditional convolution for downsampling results in detail loss, while a purely lightweight design sacrifices feature expression capabilities. Therefore, the module first designs a Space-to-Channel (SPC) mechanism to achieve downsampling without losing learnable information. Considering that surface defects in industrial images follow a certain spatial distribution, multi-directional convolution and feature fusion are used to enhance defect feature extraction.The workflow of the LSCMDC module is shown in Fig. 1.
 
-![image-20251006134759109](E:\typora\pic\image-20251006134759109.png)
+<img width="865" height="485" alt="image" src="https://github.com/user-attachments/assets/a524d3d5-fdb0-4755-af56-658bc5e84cb9" />
+
 
 ​                                                                                                                 Fig 1. LSCMDC module
 
@@ -52,7 +53,8 @@ We propose a LSCMDC module. Directly using traditional convolution for downsampl
 
 GLAM draws on the sequential channel and spatial attention architecture of CBAM and GAM, and reconstructs their sub-modules to tackle the current problems in industrial defect detection, such as the need for lightweight design and insufficient global information interaction. The overall processing flow can be referred to as shown in Fig. 2.
 
-![image-20251006024202064](E:\typora\pic\image-20251006024202064.png)
+<img width="865" height="291" alt="image" src="https://github.com/user-attachments/assets/e60af887-d8a2-47a6-96f4-eda9679dd134" />
+
 
 ​                                                                                                                          Fig 2. GLAM
 
@@ -64,7 +66,8 @@ GLAM draws on the sequential channel and spatial attention architecture of CBAM 
 
 The function curve of the AW Loss is shown in Fig. 3.
 
-![image-20251006024748766](E:\typora\pic\image-20251006024748766.png)
+<img width="263" height="263" alt="image" src="https://github.com/user-attachments/assets/73b711db-2125-4702-b069-fdc046af9f08" />
+
 
 ​                                                                                                                               Fig 3. AW loss
 
