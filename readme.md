@@ -117,6 +117,6 @@ Please feel free to contact me if you have any questions or require additional i
 
 # 4. Citation
 
-**Paper Title**:  `Enhanced Industrial Surface Defect Detection with YOLOv11: A Lightweight Feature Enhance-ment and Adaptive Weighting Approach` 
+**Paper Title**:  `Enhanced Industrial Surface Defect Detection with YOLOv11: A Lightweight Feature Enhancement and Adaptive Weighting Approach` 
 **Journal**: `The Visual Computer`  
 
