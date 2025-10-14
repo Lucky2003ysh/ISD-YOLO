@@ -45,7 +45,7 @@ We propose a LSCMDC module. Directly using traditional convolution for downsampl
 
 ​                                                                                                                 Fig 1. LSCMDC module
 
-## 2.2 GLAM module
+## 2.2 GLAM
 
 **Code located in:** `ultralytics/nn/attention/attention.py` 
 
@@ -118,5 +118,5 @@ Please feel free to contact me if you have any questions or require additional i
 # 4. Citation
 
 **Paper Title**:  `Enhanced Industrial Surface Defect Detection with YOLOv11: A Lightweight Feature Enhancement and Adaptive Weighting Approach` 
-**Journal**: `The Visual Computer`  
+**Journal**: None 
 
