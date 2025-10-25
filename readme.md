@@ -1,6 +1,6 @@
 # 1. requirements and usage
 
-We propose an ISD-YOLO, and more information are in our paper:`**Enhanced Industrial Surface Defect Detection with YOLOv11: A Lightweight Feature Enhancement and Adaptive Weighting Approach**`
+We propose an ISD-YOLO, and more information are in our paper:`**Enhanced Industrial Surface Defect Detection with ISD-YOLO: A Lightweight Feature Enhancement and Boundary Sample-Focused Adaptive Weighting Method**`
 
 ## 1.1 requirements
 
@@ -117,6 +117,6 @@ Please feel free to contact me if you have any questions or require additional i
 
 # 4. Citation
 
-**Paper Title**:  `Enhanced Industrial Surface Defect Detection with YOLOv11: A Lightweight Feature Enhancement and Adaptive Weighting Approach` 
-**Journal**: None 
+**Paper Title**:  `Enhanced Industrial Surface Defect Detection with ISD-YOLO: A Lightweight Feature Enhancement and Boundary Sample-Focused Adaptive Weighting Method` 
+**Journal**: applied intellgence(prepare) 
 
