@@ -118,5 +118,5 @@ Please feel free to contact me if you have any questions or require additional i
 # 4. Citation
 
 **Paper Title**:  `Enhanced Industrial Surface Defect Detection with ISD-YOLO: A Lightweight Feature Enhancement and Boundary Sample-Focused Adaptive Weighting Method` 
-**Journal**: applied intellgence(prepare) 
+**Journal**: 
 
